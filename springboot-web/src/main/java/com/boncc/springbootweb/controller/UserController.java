@@ -17,4 +17,7 @@ public class UserController {
         List<User> users = userService.findAll();
         return users;
     }
+    public void getAll(){
+    	
+    }
 }
