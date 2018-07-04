@@ -18,8 +18,10 @@ public class UserController {
         return users;
     }
     public void getAll(){
-    	//添加注释1
-    	//添加注释2
-    	//添加注释3
+    	//删除注释1
+    	//删除注释2
+    	//删除注释3
+    	
     }
+    
 }
